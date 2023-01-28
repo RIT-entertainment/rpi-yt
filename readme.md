@@ -16,10 +16,10 @@ This path is for beginners to Scratch and physical computing, although basic com
 
 What do I need?
 ---------
-A Raspberry Pi Computer
-Various wires
-Single colour LEDs, buzzers, and resistors
-Scratch 3 desktop version installed
+A Raspberry Pi Computer, 
+Various wires, 
+Single colour LEDs, buzzers, and resistors, 
+Scratch 3 desktop version installed, 
 Craft items including aluminium foil
 
 
